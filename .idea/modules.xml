@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarsRealEstate-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/MarsRealEstate-Starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate-Starter.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarsRealEstate.iml" filepath="$PROJECT_DIR$/.idea/modules/MarsRealEstate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsRealEstate.app.unitTest.iml" />
     </modules>
   </component>
 </project>
